@@ -22,7 +22,8 @@ public class PlayerController : MonoBehaviour
     
     void Update()
     {
-        // 왼쪽 마우스 버튼을 눌렀을 때
+        //04.15 패드로 수정 예정..
+        // 왼쪽 마우스 버튼을 눌렀을 때 
         if (Input.GetKey(KeyCode.Mouse0))
         {
             RaycastHit hit;
