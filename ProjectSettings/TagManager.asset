@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Wall
+  - heart
+  - spade
+  - clover
+  - diamond
   layers:
   - Default
   - TransparentFX
